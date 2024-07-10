@@ -1,0 +1,26 @@
+[ 
+    {
+        "catagoryName": "Noise Complaints"
+    },
+    {
+        "catagoryName": "Public Facility Maintenance"
+    },
+    {
+        "catagoryName": "Law Enforcement Concerns"
+    },
+    { 
+        "catagoryName": "Housing and Property Concerns"
+    },
+    {
+        "catagoryName": "Infrastructure Issues"
+    },
+    { 
+        "catagoryName": "Public Health and Safety"
+    },
+    { 
+        "catagoryName": " Environmental Concerns"
+    },
+    {
+        "catagoryName": "Transportation and Traffic Issues"
+    }    
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "category": "Noise Complaints",
+        "description": "Report excessive noise disturbances from neighbors, businesses, or public events.",
+        "imageURL": "url_to_noise_image.jpg",
+        "subcategories": [
+            {
+                "name": "Loud Parties",
+                "description": "Complaints related to loud parties or gatherings causing disturbance.",
+                "imageURL": "url_to_loud_parties_image.jpg"
+            },
+            {
+                "name": "Construction Noise",
+                "description": "Complaints about excessive noise from construction activities.",
+                "imageURL": "url_to_construction_noise_image.jpg"
+            },
+            {
+                "name": "Traffic Noise",
+                "description": "Complaints about noise from traffic, including honking, engines, or speeding vehicles.",
+                "imageURL": "url_to_traffic_noise_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Public Facility Maintenance",
+        "description": "Report maintenance issues in public facilities such as parks, libraries, and community centers.",
+        "imageURL": "url_to_maintenance_image.jpg",
+        "subcategories": [
+            {
+                "name": "Park Maintenance",
+                "description": "Complaints related to the maintenance of parks and recreational facilities.",
+                "imageURL": "url_to_park_maintenance_image.jpg"
+            },
+            {
+                "name": "Library Facilities",
+                "description": "Complaints about facilities and services provided in libraries.",
+                "imageURL": "url_to_library_facilities_image.jpg"
+            },
+            {
+                "name": "Community Center Maintenance",
+                "description": "Complaints related to the maintenance of community centers and public gathering spaces.",
+                "imageURL": "url_to_community_center_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Law Enforcement Concerns",
+        "description": "Report concerns related to law enforcement, including non-emergency issues, traffic violations, and community safety.",
+        "imageURL": "url_to_law_enforcement_image.jpg",
+        "subcategories": [
+            {
+                "name": "Non-Emergency Issues",
+                "description": "Complaints about non-emergency law enforcement matters, such as noise complaints, suspicious activities, or minor disturbances.",
+                "imageURL": "url_to_non_emergency_image.jpg"
+            },
+            {
+                "name": "Traffic Violations",
+                "description": "Report traffic violations, including speeding, illegal parking, running red lights, and reckless driving.",
+                "imageURL": "url_to_traffic_violations_image.jpg"
+            },
+            {
+                "name": "Community Safety",
+                "description": "Concerns related to community safety, crime prevention, neighborhood watch programs, and public safety initiatives.",
+                "imageURL": "url_to_community_safety_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Housing and Property Concerns",
+        "description": "Report concerns related to housing conditions, property maintenance, and landlord-tenant issues.",
+        "imageURL": "url_to_housing_property_image.jpg",
+        "subcategories": [
+            {
+                "name": "Building Code Violations",
+                "description": "Report violations of building codes, such as unsafe structures, improper renovations, or lack of permits.",
+                "imageURL": "url_to_building_code_violations_image.jpg"
+            },
+            {
+                "name": "Housing Maintenance Issues",
+                "description": "Complaints about maintenance issues in rental properties or residential buildings, such as leaks, mold, or pest infestations.",
+                "imageURL": "url_to_housing_maintenance_image.jpg"
+            },
+            {
+                "name": "Property Disputes",
+                "description": "Concerns related to property disputes, boundary issues, or disagreements between landlords and tenants.",
+                "imageURL": "url_to_property_disputes_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Infrastructure Issues",
+        "description": "Report concerns related to public infrastructure, including roads, bridges, utilities, and public transportation.",
+        "imageURL": "url_to_infrastructure_image.jpg",
+        "subcategories": [
+            {
+                "name": "Road Maintenance",
+                "description": "Complaints about potholes, cracks, road markings, or other issues affecting road safety and condition.",
+                "imageURL": "url_to_road_maintenance_image.jpg"
+            },
+            {
+                "name": "Bridge Safety",
+                "description": "Concerns related to the safety and condition of bridges, including structural integrity and maintenance.",
+                "imageURL": "url_to_bridge_safety_image.jpg"
+            },
+            {
+                "name": "Utility Problems",
+                "description": "Report issues with utilities such as water, gas, or electricity, including leaks, outages, or infrastructure damage.",
+                "imageURL": "url_to_utility_problems_image.jpg"
+            },
+            {
+                "name": "Public Transportation",
+                "description": "Complaints or suggestions regarding public transportation services, including buses, trains, and stations.",
+                "imageURL": "url_to_public_transportation_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Public Health and Safety",
+        "description": "Report concerns related to public health hazards, safety violations, and emergency situations.",
+        "imageURL": "url_to_public_health_image.jpg",
+        "subcategories": [
+            {
+                "name": "Health Code Violations",
+                "description": "Report violations of health codes, including food safety, sanitation, and hygiene.",
+                "imageURL": "url_to_health_code_violations_image.jpg"
+            },
+            {
+                "name": "Safety Hazards",
+                "description": "Complaints about safety hazards such as slippery floors, broken stairs, or malfunctioning equipment.",
+                "imageURL": "url_to_safety_hazards_image.jpg"
+            },
+            {
+                "name": "Emergency Situations",
+                "description": "Report emergencies such as fires, natural disasters, medical emergencies, or hazardous spills.",
+                "imageURL": "url_to_emergency_situations_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Environmental Concerns",
+        "description": "Report concerns related to environmental pollution, conservation, and sustainability.",
+        "imageURL": "url_to_environmental_concerns_image.jpg",
+        "subcategories": [
+            {
+                "name": "Air Quality",
+                "description": "Report air pollution, emissions, and concerns related to air quality standards.",
+                "imageURL": "url_to_air_quality_image.jpg"
+            },
+            {
+                "name": "Water Pollution",
+                "description": "Complaints about water pollution, contamination, and issues affecting water quality.",
+                "imageURL": "url_to_water_pollution_image.jpg"
+            },
+            {
+                "name": "Waste Management",
+                "description": "Concerns related to waste disposal, recycling programs, and proper waste management practices.",
+                "imageURL": "url_to_waste_management_image.jpg"
+            },
+            {
+                "name": "Natural Resource Conservation",
+                "description": "Report concerns related to the conservation of natural resources such as forests, wildlife, and ecosystems.",
+                "imageURL": "url_to_conservation_image.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Transportation and Traffic Issues",
+        "description": "Report concerns related to transportation infrastructure, traffic congestion, and road safety.",
+        "imageURL": "url_to_transportation_traffic_image.jpg",
+        "subcategories": [
+            {
+                "name": "Road Congestion",
+                "description": "Complaints about traffic congestion, gridlock, and delays on roads and highways.",
+                "imageURL": "url_to_road_congestion_image.jpg"
+            },
+            {
+                "name": "Public Transit Delays",
+                "description": "Report delays, disruptions, or issues with public transportation services such as buses, trains, and subways.",
+                "imageURL": "url_to_public_transit_delays_image.jpg"
+            },
+            {
+                "name": "Parking Problems",
+                "description": "Concerns related to parking availability, regulations, and enforcement.",
+                "imageURL": "url_to_parking_problems_image.jpg"
+            },
+            {
+                "name": "Road Safety",
+                "description": "Report road hazards, unsafe conditions, and concerns affecting pedestrian and cyclist safety.",
+                "imageURL": "url_to_road_safety_image.jpg"
+            }
+        ]
+    }
+]
